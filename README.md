@@ -195,7 +195,7 @@ Use uploaded files instead of live camera feed
 
 ---
 
-## 👥 Team & Credits
+## 👥 Credits
 
 Built for hackathon demonstration purposes.
 
@@ -225,4 +225,4 @@ For issues or questions during the hackathon:
 ---
 
 **Good luck with your hackathon demo! 🚀**
-```
+
