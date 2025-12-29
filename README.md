@@ -226,6 +226,3 @@ For issues or questions during the hackathon:
 
 **Good luck with your hackathon demo! 🚀**
 ```
-
----
-
